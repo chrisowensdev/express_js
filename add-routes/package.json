@@ -1,0 +1,16 @@
+{
+  "name": "add-routes",
+  "version": "1.0.0",
+  "description": "Create an Express app with routes for /, /cats, /dogs, /cats_and_dogs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js",
+    "dev": "nodemon ./index.js"
+  },
+  "author": "Chris Owens",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "name": "add-routes-with-paramters",
+    "version": "1.0.0",
+    "description": "Create an Express app with a route /greet that returns a greeting ex. /greet/Luke returns Hello, Luke!",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node ./index.js",
+        "dev": "nodemon ./index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
